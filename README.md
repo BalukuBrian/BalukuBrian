@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BalukuBrian
-- 👀 I’m interested in Mobile Application Development, Web Development
+- 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Mobile Application Development using Java, Flutter and Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @BALUKUBRIAN6
